@@ -1,0 +1,25 @@
+{
+    "parameterSets": {
+        "5mm example": {
+            "emboss": "1",
+            "fontSize": "8",
+            "length": "50",
+            "radius": "5",
+            "radiusDenominator": "1",
+            "thickness": "3",
+            "units": "mm",
+            "width": "25"
+        },
+        "7\/32in example": {
+            "emboss": "1/32",
+            "fontSize": "8",
+            "length": "2",
+            "radius": "7",
+            "radiusDenominator": "32",
+            "thickness": "1/8",
+            "units": "in",
+            "width": "1"
+        }
+    },
+    "fileFormatVersion": "1"
+}
